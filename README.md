@@ -1,3 +1,4 @@
+# Japan-Tourism-Dashboard
 A Tableau personal project to display data about recent rise of tourism in Japan
 
 Used public databases and resources online to create this data visualisation dashboard using Tableau
